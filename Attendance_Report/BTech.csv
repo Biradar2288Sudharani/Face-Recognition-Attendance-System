@@ -1,0 +1,44 @@
+ID,Day,Time,Batch,Subject,Staff_Name,Batch Information
+1,Monday,8:45 to 10:45,B1,AI Practical,Prof Rajguru D A,Roll No 1 to 25
+2,Monday,8:45 to 10:45,B2,Project,Prof Karte D A,Roll No 26 to 50
+3,Monday,8:45 to 10:45,B3,CC Practical,Prof Dange G G,Roll No 51 to 75
+4,Monday,11:00 to 12:00,-,CNS,Prof Kulkarni D P,-
+5,Monday,12:00 to 1:00,-,DS,Prof Vora S S,-
+6,Monday,1:45 to 2:45,-,AI,Prof Rajguru D A,-
+7,Monday,2:45 to 3:45,-,FLS,Chaugule D M,-
+
+8,Tuesday,8:45 to 10:45,-,Project,Prof Karte D A,-
+9,Tuesday,11:00 to 12:00,-,DS,Prof Vora S S,-
+10,Tuesday,12:00 to 1:00,-,CC,Prof Dange G G,-
+11,Tuesday,1:45 to 2:45,-,DL,Prof Khade N B,-
+12,Tuesday,2:45 to 3:45,-,AI,Prof Rajguru D A,-
+
+13,Wednesday,8:45 to 10:45,B1,CC Practical,Prof Dange G G,Roll No 1 to 25
+14,Wednesday,8:45 to 10:45,B2,AI Practical,Prof Rajguru D A,Roll No 26 to 50
+15,Wednesday,8:45 to 10:45,B3,Project ,Prof Karte D A,Roll No 51 to 75
+16,Wednesday,11:00 to 12:00,-,CC,Prof Dange G G,-
+17,Wednesday,12:00 to 1:00,-,CNS,Prof Kulkarni D P,-
+18,Wednesday,1:45 to 2:45,-,AI,Prof Rajguru D A,-
+19,Wednesday,2:45 to 3:45,-,DL,Prof Khade N B,-
+
+20,Thursday,8:45 to 10:45,B1,Project,Prof Karte D A,Roll No 1 to 25
+21,Thursday,8:45 to 10:45,B2,CC Practical,Prof Dange G G,Roll No 26 to 50
+22,Thursday,8:45 to 10:45,B3,AI Practical,Prof Rajguru D A,Roll No 51 to 75
+23,Thursday,11:00 to 12:00,-,DS,Prof Vora S S,-
+24,Thursday,12:00 to 1:00,-,CC,Prof Rajguru D A,-
+25,Thursday,1:45 to 2:45,-,CNS,Prof Kulkarni D P,-
+26,Thursday,2:45 to 3:45,-,DL,Prof Khade N B,-
+
+27,Friday,8:45 to 9:45,-,DL,Prof Khade N B,-
+28,Friday,9:45 to 10:45,-,CNS,Prof Kulkarni D P,-
+29,Friday,11:00 to 12:00,-,CC,Prof Vora S S,-
+30,Friday,12:00 to 1:00,-,AI,Prof Rajguru D A,-
+31,Friday,1:45 to 2:45,-,DS,Prof Vora S S,-
+32,Friday,2:45 to 3:45,B1,TG Meet,Prof Kulkarni D P,Roll No 1 to 25
+33,Friday,2:45 to 3:45,B2,TG Meet,Prof Rajguru D A,Roll No 26 to 50
+34,Friday,2:45 to 3:45,B3,TG Meet,Prof Karte D A,Roll No 51 to 75
+
+35,Saturday,8:45 to 10:45,-,Project,Prof Karte D A
+36,Saturday,11:00 to 1:00,-,SDP/TEDx,Bhadule P U,-
+37,Saturday,1:45 to 3:45,-,SDP/TEDx,Bhadule P U,-
+
